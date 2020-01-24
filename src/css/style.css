@@ -1,0 +1,39 @@
+.margin-vinte {
+    margin: 20px;
+}
+
+.margin-center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 32em
+}
+
+.margin-center-long {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    text-align: center;
+}
+
+.color-backgroung-black {
+    background-color: #000000;
+}
+
+.color-text {
+    color: #000000;
+    text-decoration:none;
+    width: 100%;
+    height: 100%;
+}
+
+
+.color-text-white {
+    color: #ffffff;
+    text-decoration:none;
+    width: 100%;
+    height: 100%;
+}
+
+.box-top-float {
+    top: 70;
+}
