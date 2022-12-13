@@ -11,7 +11,7 @@
     "@version/react-router-v3": "^1.0.0",
     "bootstrap": "^4.4.1",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jquery": "^3.4.1",
     "material-ui-icons": "^1.0.0-beta.36",
     "pubsub-js": "^1.8.0",
